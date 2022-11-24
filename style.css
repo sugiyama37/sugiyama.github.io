@@ -1,6 +1,8 @@
-img{
-      border-radius: 50%;
-    }
+body{
+
+    background-image: linear-gradient(to right,pink,rgb(0, 208, 255));
+
+}
 h1{
     color:white;
     background:#0093D0;
